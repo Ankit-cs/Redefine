@@ -17,11 +17,11 @@
 
 ---
 
-## 🌐 Live Demo
-*(Insert your deployed Vercel link here once deployed)*
-[**View Live Deployment**](https://redefine-app.vercel.app/)
+## Live Demo
 
-## ✨ Features
+[**View Live Deployment**](https://zentryv1.vercel.app)
+
+## Features
 
 - **Immersive 3D Animations:** Complex, scroll-linked animations and page transitions powered by `GSAP` and a custom `ScrollAnimator`.
 - **Full Localization (i18n):** Flawless runtime language switching between **English (EN)** and **Japanese (JP)** using a highly scalable dictionary-based React Context provider.
@@ -29,7 +29,7 @@
 - **Premium UI/UX:** Styled using the latest features of **Tailwind CSS v4**, featuring modern glassmorphism, dynamic glowing effects, and smooth micro-interactions.
 - **Optimized Video Backgrounds:** Intelligent lazy-loading and dynamic hover-playing of HTML5 video assets.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Framework:** [Next.js 15](https://nextjs.org/) (App Router)
 - **Library:** [React 19](https://react.dev/)
@@ -38,7 +38,7 @@
 - **Icons:** [React Icons](https://react-icons.github.io/react-icons/)
 - **Language:** TypeScript
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Clone the repository
 
@@ -65,7 +65,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. The page will auto-update as you edit the files.
 
-## 🌍 Localization System
+## Localization System
 
 This project features a highly scalable, custom internationalization (i18n) setup. Strings are stored centrally in dictionary files to allow seamless expansion to additional languages.
 
@@ -73,7 +73,7 @@ This project features a highly scalable, custom internationalization (i18n) setu
 - `utils/jp.tsx` - Japanese Dictionary
 - `context/LanguageContext.tsx` - Provides the `t()` function across the entire app.
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
